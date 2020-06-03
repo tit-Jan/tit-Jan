@@ -1,0 +1,59 @@
+body 
+{
+background: pink;
+color: red; 
+}
+
+.styl
+{
+	margin-top: 50px;
+	font-size: 40px;
+	text-decoration:none;
+	margin:auto; 0 auto;
+	text-align: center;
+    color: red;
+
+}
+
+.styl2
+{
+margin-top: 70px;
+font-size:50px;	
+text-decoration:none;
+margin:auto; 0 auto;
+text-align: center;	
+text-decoration:none;
+	
+}
+
+.styl3
+{
+text-decoration:none;			
+}
+
+.rod
+{
+width: 800px;
+height: 400px;	
+margin:auto; 0 auto;	
+}
+
+.to
+{
+font-style:Times New Roman;		
+}
+
+.animacja{
+    padding: 10px 120px;
+    background-color: salmon;
+    color: #fff;
+    animation-name: changeColors;
+    animation-duration: 5s;
+}
+
+.animacja2{
+    padding: 10px 120px;
+    animation-name: alternate;
+    animation-duration: 5s;
+}
+
